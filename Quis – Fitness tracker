@@ -1,0 +1,7 @@
+Quis – Fitness tracker app
+Problem: To track overall individual fitness, set standards using metrics
+Solution: An app that contains national / world records in its databases and evaluates users’ fitness against those records as well as comparing between other users’ progress. You would be able to set goals and measure your progress using visuals, such as the bar chart.
+It will not be a one-time usage, but users would use it on a continual basis.
+APIs such as that of FitBit can probably be used. 
+Users can upload / link to videos of activity such as bench press.
+Challenges: Ensuring that people are not putting in fake data (accuracy could be an issue). We need to come up with the app's unique value proposition.
